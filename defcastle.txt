@@ -1,0 +1,3 @@
+right,yes
+left,yes
+king,yes

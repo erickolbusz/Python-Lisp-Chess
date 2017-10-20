@@ -1,0 +1,16 @@
+rook,a8
+knight,b8
+bishop,c8
+queen,d8
+king,e8
+bishop,f8
+knight,g8
+rook,h8
+pawn1,a7
+pawn1,b7
+pawn1,c7
+pawn1,d7
+pawn1,e7
+pawn1,f7
+pawn1,g7
+pawn1,h7
